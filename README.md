@@ -32,3 +32,13 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 ```bash
 code .
 ```
+## 🚀Rodar aplicação
+
+1. Ver o site rodando localmente
+```bash
+npm run dev
+```
+2. Gerar versão final do site
+```bash
+npm run build
+```
